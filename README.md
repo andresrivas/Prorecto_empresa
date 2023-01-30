@@ -1,2 +1,2 @@
-# Prorecto_empresa
+# Proyecto_empresa
 Proyecto elaborado en C#
